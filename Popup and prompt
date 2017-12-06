@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Test js</title>
+</head>
+
+	<body>	
+	<button onclick="my()">click</button>	
+	<p id="a"></p>
+<script>
+	function my()
+	
+	{
+		alert("hey this is my blog");
+
+		var cat
+		cat=prompt("Enter your Email"," @example.com");
+	document.getElementById("a").innerHTML="this is your email "+cat+"...!";
+
+    }
+</script>
+	</body>
+
+
+
+</html>
