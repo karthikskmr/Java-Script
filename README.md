@@ -1,2 +1,4 @@
 # Java-Script
-its full and full html java script codes download and use it for free 
+click clone download to download or 
+
+click Popup and prompt then click raw to view  and copy the script
